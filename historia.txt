@@ -6,3 +6,5 @@ viviendo en todo el mundo
 Hoy hablaremos de su historia.
 
 otro cambio mas para probar el git show
+
+este cambio es para entrar en editor de codigo de la terminal
